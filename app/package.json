@@ -1,0 +1,15 @@
+{
+  "name": "Angular2.0-app",
+  "version": "1.0.0",
+  "description": "A simple app in angular 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "2.0"
+  ],
+  "author": "VKR",
+  "license": "ISC"
+}

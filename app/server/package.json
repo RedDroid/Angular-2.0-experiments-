@@ -1,0 +1,26 @@
+{
+  "name": "Angular2.0-app",
+  "version": "1.0.0",
+  "description": "A simple app in angular2.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RedDroid/Angular-2.0-experiments-"
+  },
+  "keywords": [
+    "angular2.0"
+  ],
+  "author": "VKR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedDroid/Angular-2.0-experiments-/issues"
+  },
+  "homepage": "https://github.com/RedDroid/Angular-2.0-experiments-",
+  "devDependencies": {
+    "express": "^4.12.4"
+  }
+}
