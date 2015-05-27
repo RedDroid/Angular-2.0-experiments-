@@ -41,3 +41,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.idea/.name
+*.iml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/Angular-2.0-experiments-.iml
+.idea/encodings.xml
+.idea/scopes/scope_settings.xml
